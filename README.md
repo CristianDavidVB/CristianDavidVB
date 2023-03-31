@@ -1,4 +1,4 @@
-![Header](./github-header-image%20(2).png)
+![Header](./banner.png)
 
 <h1 align="center">Welcome to my repository</h1>
 
