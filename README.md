@@ -1,7 +1,5 @@
 ![Header](./banner.png)
 
-<h1 align="center">Welcome to my repository</h1>
-
 ###
 
 <p align="left">Hello! 👋 I'm Cristian Villanova, a backend developer in search of new challenges and opportunities to take my skills to the next level. I'm passionate about creating robust and scalable web applications using Ruby and Ruby on Rails. as well as Java and the Spring Framework.</p>
