@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Ruby and Ruby on Rails developer<br>🌱 I'm always learning and improving my skills in backend development<br>🚀 I love creating efficient and scalable web applications</p>
+<p align="left">💻 Ruby and Ruby on Rails developer<br> ☕ Java and Spring developer <br> 🌱 I'm always learning and improving my skills in backend development<br>🚀 I love creating efficient and scalable web applications <br> </p>
 
 ###
 
