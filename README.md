@@ -31,15 +31,15 @@
 
 ###
 
-<p align="left"><a href="https://github.com/CristianDavidVB/Task_Manager">Tasks Managment</a> - Rails </p>
+<p align="left"><a href="https://github.com/CristianDavidVB/Task_Manager">Tasks Managment</a> (API) - Rails  </p>
+
+###
+
+<p align="left"><a href="https://github.com/CristianDavidVB/Trivia">Trivia Game</a> (Monolite) - Rails </p>
 
 ###
 
 <p align="left"><a href="https://github.com/CristianDavidVB/clone-reddit-service">Clone Reddit</a> (Microservices) - Spring Boot</p>
-
-###
-
-<!--<p align="left"><a href="">Cash Card</a> - Spring Boot</p>-->
 
 ###
 
