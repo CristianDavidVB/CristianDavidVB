@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left"><a href="https://github.com/CristianDavidVB/pokemons">Pokemons</a> Qwik </p>
+<p align="left"><a href="https://github.com/CristianDavidVB/pokemons">Pokemons</a> - Qwik </p>
 
 ###
 
